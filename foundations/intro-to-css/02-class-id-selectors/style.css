@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+p {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#btext {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#gb {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: lightgreen;
+}
+
+.big {
+    font-size: 24px;
+}
